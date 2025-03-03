@@ -91,5 +91,5 @@ print(usuarios)
 #Exercise 9: Use reassignment to add an element to your tuple.
 
 escalada = ('roca', 'hielo', 'nieve')
-escalada = escalada+('indoor',)
+escalada += ('indoor',)
 print(escalada)
